@@ -15,8 +15,8 @@ A command-line Wordle-style word guessing game built in Python.
 ## How to run it
 ```bash
 git clone https://github.com/Dextro111/WORDIS.git
-cd wordis
-python main.py
+cd Wordis
+python3 main.py
 ```
 Make sure `Testwords.txt` is in the same directory as `main.py` — it needs one word per line.
 
