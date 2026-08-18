@@ -1,2 +1,2 @@
 # WORDIS
-This is a Word Guessing Game made with Python
+This is a CLI Python implementation of the Word Guessing Game WORDLE
